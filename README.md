@@ -8,7 +8,7 @@
 	|
 	<b><a href="#installation">Installation Instructions</a></b>
 	| 
-	<b><a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/EbtbrgmwKbgqcXyGt" target="_blank">Link to Module 2</a></b>	
+	<b><a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/EbtbrgmwKbgqcXyGt" target="_blank">Link to Module 3</a></b>	
 </p>
 
 <h1> Introduction</h1> 
