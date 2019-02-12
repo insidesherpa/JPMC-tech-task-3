@@ -1,21 +1,44 @@
+<p align="center">
+<a href="https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/Technology%20Virtual%20Experience" target="_blank">
+<img src="https://s3-ap-southeast-2.amazonaws.com/insidesherpa-assets/icons/promo_files/Screen+Shot+2019-02-11+at+11.32.13+pm.png"></a>
+</p>
 
-## Instalation
+<p align="center"> 
+	<b><a href="#task">Task Overview</a></b>
+	|
+	<b><a href="#installation">Installation Instructions</a></b>
+	| 
+	<b><a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/EbtbrgmwKbgqcXyGt" target="_blank">Link to Module 2</a></b>	
+</p>
 
-Similar to Task 2, please start the data feed server by running
-### `python datafeed/server.py`
+<h1> Introduction</h1> 
+<b> Experience Technology at Bank&MergeCo. </b>
+<p>Try out what real work is like in the technology team at Bank & Merge Co. Fast track to the tech team with your work.</p>
 
-Before you can start this application, you have to run
+<h2 id="task"> Module 3 Task Overview </h2>
+Display data visually for traders.
+Use Perspective to create the chart for the trader’s dashboard.
 
-### `npm install`
+<b>Aim:</b> Use Perspective to generate a chart that displays the data feed in a clear and visually appealing manner for traders to monitor this trading strategy.
 
-In the project directory, you can run:
+<ol>
+	<li>Please clone this repository to start the task</li>
+	<li>Connect the python and the repo</li>
+	<li>Upload a git patch file as the submission to this task</li>	
+  <li>Upload a video detailing your process and work</li>
+</ol>
 
-### `npm start`
+<h2 id="installation" >Installation</h2>
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Please ensure you are using <b> python2.7. </b>
 
-The page will reload if you make edits.<br>
+Similar to Task 2, start the data feed server by running the python server
 
-## Tasks
-Use perspective to generate a chart that displays the data feed in a clear and visually appealing way for traders to monitor this trading strategy.
+<code> python2 datafeed/server.py </code>
+
+Run <code>npm install</code> to start the React application.
+
+To run the app in development mode, run <code>npm start</code> in the project directory.
+
+Open http://localhost:3000 to view the app in the browser. The page will reload if you make edits.
+
