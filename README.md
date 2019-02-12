@@ -8,7 +8,9 @@
 	|
 	<b><a href="#installation">Installation Instructions</a></b>
 	| 
-	<b><a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/EbtbrgmwKbgqcXyGt" target="_blank">Link to Module 3</a></b>	
+	<b><a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/EbtbrgmwKbgqcXyGt" target="_blank">Link to Module 3</a></b>		
+	| 
+	<b><a href="https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/Technology%20Virtual%20Experience">Bank&MergeCo. Program</a></b>
 </p>
 
 <h1> Introduction</h1> 
