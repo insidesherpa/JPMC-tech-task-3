@@ -34,7 +34,7 @@ Please ensure you are using <b> python2.7. </b>
 
 Similar to Task 2, start the data feed server by running the python server
 
-<code> python2 datafeed/server.py </code>
+<code> python datafeed/server.py </code>
 
 If you encounter an issue with `datautil.parser`, run this command: 
 
@@ -42,7 +42,7 @@ If you encounter an issue with `datautil.parser`, run this command:
 
 If you don't have pip, you can install it from: https://pip.pypa.io/en/stable/installing/
 
-Run <code>npm install</code> to start the React application.
+Run <code>npm install</code> to start the React application. Make sure to run your terminal/command prompt as administrator.
 
 To run the app in development mode, run <code>npm start</code> in the project directory.
 
