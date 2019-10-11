@@ -42,9 +42,11 @@ If you encounter an issue with `datautil.parser`, run this command:
 
 If you don't have pip, you can install it from: https://pip.pypa.io/en/stable/installing/
 
-Run <code>npm install</code> to start the React application. Make sure to run your terminal/command prompt as administrator.
+Run <code>npm install</code> to start the React application. If you are using Windows, make sure to run your terminal/command prompt as administrator. It's okay to have audit warnings when installing/running the app.
 
 To run the app in development mode, run <code>npm start</code> in the project directory.
+
+If you don't have `npm`, you can install the recommended version alongside NodeJS from: https://nodejs.org/en/
 
 Open http://localhost:3000 to view the app in the browser. The page will reload if you make edits.
 
